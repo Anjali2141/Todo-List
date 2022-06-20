@@ -1,0 +1,52 @@
+body {
+    background-color: lightblue;
+}
+
+form {
+    text-align: left;
+    margin: 10px 10px;
+}
+
+label {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+h2 {
+    margin: 5px 2px;
+    padding: 10px;
+    color: mediumvioletred;
+    font-size: 2rem;
+}
+
+.todoDisplay {
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+    margin: 5rem 5rem;
+
+}
+
+.listItems {
+    height: fit-content;
+    flex-flow: column wrap;
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 18px;
+    margin-left: 5rem;
+}
+
+.singleItem {
+    margin: 2rem 2rem;
+    text-align:left;
+}
+
+button {
+    border-width: 5px;
+}
+
+link:visited {
+    color: chartreuse;
+}

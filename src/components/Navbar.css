@@ -1,0 +1,13 @@
+.navigation {
+    background-color: sandybrown;
+}
+
+a {
+    font-weight: 800;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+#todoList {
+    margin: 0px 3rem;
+}
